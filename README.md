@@ -1,2 +1,3 @@
 # hello_world
-new repository
+
+hi i'm hyunwoo
